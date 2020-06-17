@@ -1,0 +1,14 @@
+C:\Users\Mayara.MAYARA\source\repos\teste1\teste1\bin\Debug\teste1.exe.config
+C:\Users\Mayara.MAYARA\source\repos\teste1\teste1\bin\Debug\teste1.exe
+C:\Users\Mayara.MAYARA\source\repos\teste1\teste1\bin\Debug\teste1.pdb
+C:\Users\Mayara.MAYARA\source\repos\teste1\teste1\obj\Debug\AirSystem.csprojAssemblyReference.cache
+C:\Users\Mayara.MAYARA\source\repos\teste1\teste1\obj\Debug\teste1.frmCadastro.resources
+C:\Users\Mayara.MAYARA\source\repos\teste1\teste1\obj\Debug\teste1.Views.frmListarUsuarios.resources
+C:\Users\Mayara.MAYARA\source\repos\teste1\teste1\obj\Debug\teste1.frmLogin.resources
+C:\Users\Mayara.MAYARA\source\repos\teste1\teste1\obj\Debug\teste1.Properties.Resources.resources
+C:\Users\Mayara.MAYARA\source\repos\teste1\teste1\obj\Debug\teste1.Views.frmPrincipal.resources
+C:\Users\Mayara.MAYARA\source\repos\teste1\teste1\obj\Debug\teste1.Views.frmPrincipalAdm.resources
+C:\Users\Mayara.MAYARA\source\repos\teste1\teste1\obj\Debug\AirSystem.csproj.GenerateResource.cache
+C:\Users\Mayara.MAYARA\source\repos\teste1\teste1\obj\Debug\AirSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mayara.MAYARA\source\repos\teste1\teste1\obj\Debug\teste1.exe
+C:\Users\Mayara.MAYARA\source\repos\teste1\teste1\obj\Debug\teste1.pdb
